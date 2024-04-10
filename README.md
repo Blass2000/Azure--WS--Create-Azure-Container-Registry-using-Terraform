@@ -94,7 +94,7 @@ Verify that you are logged into the right Azure subscription before start anythi
 
 ![image](https://github.com/Blass2000/Azure--WS--Create-Azure-Container-Registry-using-Terraform/assets/89789502/61d2b538-d33c-435e-8e8b-95be6d803660)
 
-Task-1: Define and declare ACR variables
+*Task-1: Define and declare ACR variables*
 This section covers list of variables used to create Azure container registry with detailed description and purpose of each variable with default values.
 
 ![image](https://github.com/Blass2000/Azure--WS--Create-Azure-Container-Registry-using-Terraform/assets/89789502/c5f946c7-f0b2-4e96-a923-f866ef8c0d67)
